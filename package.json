@@ -1,0 +1,26 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "blah blah blah",
+  "main": "App.js",
+  "scripts": {
+    "test": "v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strikerSigma/react-tutorial.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strikerSigma/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/strikerSigma/react-tutorial#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "lodash": "^4.17.21"
+  }
+}
